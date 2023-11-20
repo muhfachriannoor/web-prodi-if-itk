@@ -1,0 +1,74 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html,body,.nf-wrap{
+	width: 100%!important;
+	height: 100%!important;
+}
+.nf-wrap{
+	/*background-color: red;*/
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background: #4a69bd;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to top, #30416e, #4a69bd);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #30416e, #4a69bd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.textnf-wrap{
+	text-align: center;
+	color: #fff;
+	transition: all 0.3s;
+}
+.textnf-wrap p{
+	position: relative;
+	animation: gerakni 3s infinite linear;
+	top: 0;
+	font-weight: 800;
+	font-size: 270px;
+	line-height: 18rem;
+	margin: 0;
+}
+.textnf-wrap:hover p{
+	text-shadow: 0 0 5px lightgrey;
+}
+.textnf-wrap span{
+	opacity: 0.5;
+	font-weight: 600;
+	font-size: 30px;
+	display: block;
+	margin-bottom: 15px;
+}
+
+/* Safari 4.0 - 8.0 */
+
+/* Standard syntax */
+@keyframes gerakni {
+  0%   {top: 0px;transform: rotate(0);}
+  25% {top: 15px;transform: rotate(2deg);}
+  50% {top: 30px;transform: rotate(0);}
+  75% {top: 15px;transform: rotate(-2deg);}
+  100% {top: 0px;transform: rotate(0deg);}
+}
+@media screen and (max-width: 768px){
+  .textnf-wrap p{
+  	font-size: 200px;
+  }
+}
+@media screen and (max-width: 480px){
+  .textnf-wrap p{
+  	font-size: 150px;
+  }
+}
+
+
+
+
+
+
+
+

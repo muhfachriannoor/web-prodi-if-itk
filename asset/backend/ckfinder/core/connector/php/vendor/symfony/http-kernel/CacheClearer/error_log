@@ -1,0 +1,1 @@
+[08-Jun-2019 18:52:34 UTC] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 20

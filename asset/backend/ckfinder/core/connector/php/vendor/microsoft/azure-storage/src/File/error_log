@@ -1,0 +1,1 @@
+[13-Jun-2019 21:02:04 UTC] PHP Fatal error:  Class 'MicrosoftAzure\Storage\Common\Internal\ServiceRestProxy' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/microsoft/azure-storage/src/File/FileRestProxy.php on line 71

@@ -1,0 +1,1 @@
+[09-Jun-2019 02:22:37 UTC] PHP Fatal error:  Interface 'Psr\Cache\CacheException' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/psr/cache/src/InvalidArgumentException.php on line 12

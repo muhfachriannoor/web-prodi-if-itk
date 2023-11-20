@@ -1,0 +1,2 @@
+[24-Jun-2019 12:29:12 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php on line 15
+[24-Jun-2019 16:13:32 UTC] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/psr/log/Psr/Log/Test/TestLogger.php on line 58

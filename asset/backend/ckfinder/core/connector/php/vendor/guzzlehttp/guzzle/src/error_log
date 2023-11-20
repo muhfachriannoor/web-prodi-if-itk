@@ -1,0 +1,2 @@
+[08-Jun-2019 21:53:48 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromisorInterface' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/guzzlehttp/guzzle/src/Pool.php on line 20
+[09-Jun-2019 06:15:31 UTC] PHP Fatal error:  Interface 'GuzzleHttp\ClientInterface' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/guzzlehttp/guzzle/src/Client.php on line 26

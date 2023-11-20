@@ -1,0 +1,2 @@
+[09-Jun-2019 07:26:53 UTC] PHP Fatal error:  Class 'Psr\Log\NullLogger' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/symfony/http-kernel/Log/NullLogger.php on line 23
+[09-Jun-2019 10:27:16 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/symfony/http-kernel/Log/LoggerInterface.php on line 24

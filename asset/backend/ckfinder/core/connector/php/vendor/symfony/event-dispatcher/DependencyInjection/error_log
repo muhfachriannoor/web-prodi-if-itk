@@ -1,0 +1,1 @@
+[09-Jun-2019 09:11:42 UTC] PHP Fatal error:  Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 21

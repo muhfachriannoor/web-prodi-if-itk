@@ -1,0 +1,2 @@
+[25-Jun-2019 11:09:52 UTC] PHP Fatal error:  Class 'MicrosoftAzure\Storage\Common\Models\ContinuationToken' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/microsoft/azure-storage/src/Common/Models/MarkerContinuationToken.php on line 41
+[27-Jun-2019 15:14:24 UTC] PHP Fatal error:  Class 'MicrosoftAzure\Storage\Common\Models\Range' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/microsoft/azure-storage/src/Common/Models/RangeDiff.php on line 38

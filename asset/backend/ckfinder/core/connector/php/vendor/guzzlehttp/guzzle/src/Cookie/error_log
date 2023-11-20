@@ -1,0 +1,1 @@
+[14-Jun-2019 11:20:58 UTC] PHP Fatal error:  Class 'GuzzleHttp\Cookie\CookieJar' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8

@@ -1,0 +1,1 @@
+[08-Jun-2019 13:55:30 UTC] PHP Fatal error:  Class 'League\Flysystem\Adapter\AbstractAdapter' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/league/flysystem-aws-s3-v3/src/AwsS3Adapter.php on line 15

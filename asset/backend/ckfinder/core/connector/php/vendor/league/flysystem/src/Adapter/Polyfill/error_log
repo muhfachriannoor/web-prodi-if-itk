@@ -1,0 +1,1 @@
+[25-Jun-2019 15:43:17 UTC] PHP Fatal error:  Trait 'League\Flysystem\Adapter\Polyfill\StreamedReadingTrait' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/league/flysystem/src/Adapter/Polyfill/StreamedTrait.php on line 7

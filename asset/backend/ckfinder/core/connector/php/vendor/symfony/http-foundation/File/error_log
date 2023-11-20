@@ -1,0 +1,1 @@
+[09-Jun-2019 04:25:00 UTC] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/symfony/http-foundation/File/UploadedFile.php on line 26

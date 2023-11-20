@@ -1,0 +1,1 @@
+[30-Jun-2019 03:44:46 UTC] PHP Fatal error:  Class 'MicrosoftAzure\Storage\Common\Middlewares\MiddlewareBase' not found in /home/disperkimsamarin/public_html/asset/portal/dashboard/ckfinder/core/connector/php/vendor/microsoft/azure-storage/src/Common/Internal/Middlewares/CommonRequestMiddleware.php on line 46
